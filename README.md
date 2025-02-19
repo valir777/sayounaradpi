@@ -95,7 +95,7 @@ byedpi для mac os<br>
 ------
 
 после запуска подсоединяем браузер:<br>
-на firefox устанавливаем в настройках socks5 прокси-0000:1080<br>
+на firefox устанавливаем в настройках socks5 прокси-узел:0000 порт:1080<br>
 на chromium браузерах используем расширения вроде foxyproxy или zero omega<br>
 
 автор решения-<a href="https://github.com/hufrea">hufrea</a><br>
