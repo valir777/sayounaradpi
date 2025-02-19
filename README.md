@@ -7,3 +7,5 @@ byedpi для mac os
 на chromium браузерах используем расширения вроде foxyproxy или zero omega
 
 автор решения-<a href="https://github.com/hufrea">hufrea</a>
+
+p.s файлы должны лежать вместе
