@@ -85,10 +85,10 @@ byedpi для mac os<br>
 на firefox устанавливаем в настройках сети socks5 прокси-узел:0000 порт:1080<br>
 на chromium браузерах используем расширение foxyproxy (создаем socks5 прокси-ip адрес:0000 порт:1080 и подключаемся к нему) или же switchyomega (если хотите больше контроля)<br>
 
-автор решения-<a href="https://github.com/hufrea">hufrea</a><br>
-
 p.s файлы должны лежать вместе<br>
 
 apple moment:<br>
 если  mac os ругается при попытке открыть launch перейдите в-настройки/конфиденциальность и безопасность,пролестните в самый низ и нажмите:все равно открыть<br>
-или добавьте файл в карантин с помощью:xattr -d com.apple.quarantine путь до файла launch
+или добавьте файл в карантин с помощью:xattr -d com.apple.quarantine путь до файла launch<br>
+
+автор решения-<a href="https://github.com/hufrea">hufrea</a><br>
