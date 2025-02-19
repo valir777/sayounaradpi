@@ -1,6 +1,6 @@
 byedpi для mac os<br>
 
-запускаем launch и вводим флаги для запуска (берем <a href="[https://github.com/hufrea/byedpi](https://github.com/hufrea/byedpi?tab=readme-ov-file#описание-аргументов)">тут</a>)<br>
+запускаем launch и вводим флаги для запуска (берем <a href="https://github.com/hufrea/byedpi](https://github.com/hufrea/byedpi?tab=readme-ov-file#описание-аргументов">тут</a>)<br>
 
 после запуска подсоединяем браузер:<br>
 на firefox устанавливаем в настройках socks5 прокси-0000:1080<br>
